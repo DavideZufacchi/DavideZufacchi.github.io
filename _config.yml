@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Davide Zufacchi"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Davide Zufacchi"
+name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "DavideZufacchi/DavideZufacchi.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : @DavideZufacchi
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -80,12 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Davide Zufacchi"
-  avatar           : "Volterra_small.png"
-  bio              : "PhD students in Economics at University College London and Institute of Fiscal Studies"
-  location         : "University College London, 30 Gordon Street, London WC1H 0AX"
+  name             : "Your Sidebar Name"
+  avatar           : "profile.png"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
   employer         :
-  email            : "davide.zufacchi@outlook.it
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -93,19 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "DavideZufacchi"
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "DavideZufacchi"
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -177,11 +181,17 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
 defaults:
- # _posts
+  # _posts
   - scope:
       path: ""
       type: posts
@@ -199,16 +209,16 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _Teaching
+  # _teaching
   - scope:
       path: ""
-      type: Teaching
+      type: teaching
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _Research
+  # _publications
   - scope:
       path: ""
       type: publications
@@ -217,6 +227,23 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _talks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
