@@ -7,8 +7,4 @@ author_profile: true
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+<a href="https://[www.ucl.ac.uk/economics/ucl-department-economics](https://davidezufacchi.github.io/Ebola_SonnoZufacchi.pdf)"> Paper </a>
