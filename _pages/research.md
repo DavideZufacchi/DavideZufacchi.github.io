@@ -11,7 +11,7 @@ Working papers
 ===========================
 
 
-<a href="https://davidezufacchi.github.io/Ebola_SonnoZufacchi.pdf"> Epidemics and rapacity of multinational companies  </a>, with Tommaso Sonno
+* <a href="https://davidezufacchi.github.io/Ebola_SonnoZufacchi.pdf"> Epidemics and rapacity of multinational companies  </a>, with Tommaso Sonno
 
 <details>
   <summary>Abstract</summary>
@@ -25,7 +25,7 @@ Press: Africa at LSE
 
 </details>
 
-Mining Companies and Armed Groups, with Eliana La Ferrara
+* **Mining Companies and Armed Groups**, with Eliana La Ferrara
 
 <details>
   <summary>Abstract</summary>
@@ -36,10 +36,12 @@ Presented at: UCL, PIEP Conference (HKS)
 
 </details>
 
+- - - -
+
 Working in Progress 
 ===========================
 
-Informality trap: Social capital and Informal labour supply in a population of migrants
+* **Informality trap: Social capital and Informal labour supply in a population of migrants**
 
 <details>
   <summary>Abstract</summary>
@@ -50,7 +52,7 @@ Presented at: UCL, PIEP Conference (HKS)
 
 </details>
 
-Crime organizations as Proto-States: Evidence from Brazil
+* **Crime organizations as Proto-States: Evidence from Brazil**
 
 <details>
   <summary>Abstract</summary>
@@ -60,6 +62,8 @@ This paper studies the relationship between organized crime, formal institutions
 Presented at: UCL, Bologna , Lyon, IFS
 
 </details>
+
+- - - -
 
 Policy Reports
 ===========================
