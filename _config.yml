@@ -83,12 +83,12 @@ author:
   name             : "Davide Zufacchi"
   avatar           : "Volterrasmall.png"
   bio              : "Economics PhD student at University College London and Institute of Fiscal Studies"
-  location         : "Location"
+  location         : "30 Gordon Street, London WC1H 0AX, United Kingdom"
   employer         :
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : 
+  email            : "davide.zufacchi@outlook.it"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "DavideZufacchi"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@DavideZufacchi"
   vine             :
   weibo            :
   xing             :
