@@ -33,8 +33,8 @@ Working papers
     <p>
   
    Using geo-referenced data in the Democratic Republic of Congo over fifteen years, this paper investigates the relationships between organized armed groups and large-scale mining firms. Without strategic interaction, one should expect the closest armed band to have the highest probability of being observed in the concession's proximity. However, this happens only 29\% of the time. Instead, in 57\% of the cases we observe the armed group with a link with the concession owner. We analyse these interactions exploiting both their geographical dimension and their timing, on the assumption that, if a relation exist, this should be prolonged over time. Results shows that if an armed group a link with a firm, there is a 120 times higher probability of observing it close to the concessions of the latter. This strategic interaction is consistent both with a competition narrative, where firms and groups compete over resources, and a cooperation one. We provide three empirical facts in favor of cooperation. First, there seems to be evidence of a specialization between armed bands and mining owners. Second, the probability of observing the linked band increase substantially one year before the opening of the concession, consistently with some anticipation effect. Third, the importance of having a link increase with the number of rival groups. To conclude, we look at two potential mechanisms behind this cooperation. These results show how large scale mining companies, by cooperating with rebel groups, may directly contribute to conflict in the Democratic Republic of Congo. 
-  
-        <p>
+    <p>
+          
     Presented at: UCL, PIEP Conference (HKS)
 
   </details>
@@ -61,8 +61,8 @@ Working in Progress
     <p>
   
    This paper studies the relationship between organized crime, formal institutions, and economic growth. In particular, I focus on the spread of the most influential criminal organization in Brazil with two goals. First, determine if the organisation imposes a monopoly of violence, i.e., whether it imposes itself as a proto-state. Second, to explore the economic consequences of the organization's control of the territory. To do so, I combine a theoretical model of the internal structure of the criminal organisation with a reduced form analysis. To deal with the endogenous diffusion of the organization, I exploit a quasi-random variation in both the costs and benefits of controlling a municipality. I find that the crime organization behaves like a proto-state since controlled municipalities experience a transition towards a low-violence equilibrium. This regulatory behavior is efficient for the organization, being profit-maximizing. As for the economic outcomes, I find a small increase in the GDP of the controlled municipalities as well as some evidence of tax competition.
-  
-      <p>
+    <p>
+      
     Presented at: UCL, Bologna , Lyon, IFS
 
   </details>
