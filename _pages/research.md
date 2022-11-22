@@ -21,7 +21,7 @@ Working papers
   <p>
     
   Presented at: ETSG-Ghent, OPESS, UCL, Bologna, LEAP (Bocconi), Jamboree (UAB)
-    
+    <p>
     
   Press: <a href="https://blogs.lse.ac.uk/africaatlse/2022/03/18/how-multinationals-exploited-a-health-ebola-crisis-accelerate-deforestation-liberia-capitalism/"> Africa at LSE </a>
 
