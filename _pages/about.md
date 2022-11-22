@@ -20,3 +20,4 @@ You can find my CV <a href="https://davidezufacchi.github.io/cv_112022.pdf"> her
 * Organized Crime                   <img width="38" alt="Screenshot 2022-11-22 at 16 00 18" src="https://user-images.githubusercontent.com/103354008/203361885-ce6037fb-f866-4e6b-b734-dcc83730ca3e.png"> PhD in Economics, UCL, ongoing
 * State Capacity                    <img width="38" alt="Screenshot 2022-11-22 at 16 00 18" src="https://user-images.githubusercontent.com/103354008/203361885-ce6037fb-f866-4e6b-b734-dcc83730ca3e.png"> MSc in Economics, Bocconi, 2020
 * Forensic Economics                <img width="38" alt="Screenshot 2022-11-22 at 16 00 18" src="https://user-images.githubusercontent.com/103354008/203361885-ce6037fb-f866-4e6b-b734-dcc83730ca3e.png"> BSc in Economics, Bocconi, 2017
+<pre>
