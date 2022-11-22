@@ -44,4 +44,4 @@ Teaching Assistant
  * ECON0124 Anonymous student - "Davide is the best TA I have had during the MSc. So much effort put into each tutorial and he makes it fun. His explanations are also very useful."
 
 
- </details>
+
