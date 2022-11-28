@@ -62,7 +62,7 @@ Working in Progress
    This paper studies the relationship between organized crime, formal institutions, and economic growth. In particular, I focus on the spread of the most influential criminal organization in Brazil with two goals. First, determine if the organisation imposes a monopoly of violence, i.e., whether it imposes itself as a proto-state. Second, to explore the economic consequences of the organization's control of the territory. To do so, I combine a theoretical model of the internal structure of the criminal organisation with a reduced form analysis. To deal with the endogenous diffusion of the organization, I exploit a quasi-random variation in both the costs and benefits of controlling a municipality. I find that the crime organization behaves like a proto-state since controlled municipalities experience a transition towards a low-violence equilibrium. This regulatory behavior is efficient for the organization, being profit-maximizing. As for the economic outcomes, I find a small increase in the GDP of the controlled municipalities as well as some evidence of tax competition.
     <p>
       
-    Presented at: UCL, Bologna , Lyon, IFS
+    Presented at: UCL, Bologna , Lyon, IFS, Collegio Carlo Alberto (Turin)
 
 
 - - - -
