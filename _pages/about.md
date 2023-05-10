@@ -16,7 +16,7 @@ My research interests are political and development economics, with a focus on l
 
 By studying these large non-state actors, my goal is to investigate the determinants of state capacity, and how this affects the economic performance of weak countries.
 
-You can find my CV <a href="https://davidezufacchi.github.io/cv_112022.pdf"> here. </a> 
+You can find my CV <a href="https://davidezufacchi.github.io/cv_052023.pdf"> here. </a> 
 
 
 ## Interests  
