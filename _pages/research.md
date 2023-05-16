@@ -33,7 +33,7 @@ Working papers
     <summary>Abstract</summary>
     <p>
   
-   We investigate the relationship between armed groups and large-scale mining firms in the Democratic Republic of Congo using geo-referenced data over 2000-2015. We start by showing that the pattern of links between armed bands and concession owners significantly departs from the random benchmark, even after accounting for geographic proximity. After observing a given owner-band pair in a concession, we are significantly more likely to find the same pair in a different concession, possibly far away. We next explore the nature of the interaction by focusing on the timing and on the type of violence exerted by armed groups, and by exploring how it varies with local population density. Our results are consistent with the interpretation that mining companies and armed bands engage in repeated interactions, where the latter help clear the territory from competing armed bands and destabilize the surrounding environment in a way that potentially allows to access cheaper labor.
+  We investigate the relationship between armed groups and large-scale mining firms in the Democratic Republic of Congo using geo-referenced data over 2000-2015. We start by showing that the pattern of links between armed bands and concession owners significantly departs from the random benchmark. To understand these patterns, we develop a statistical detection algorithm which flags owner-band dyads based on repeated interaction and anomalous bands' movements. Results indicate that flagged dyads are significantly more likely to be observed together, also in very far away mineral concessions. We next explore the nature of these contacts. Our results are consistent with the interpretation that mining companies and armed bands engage in repeated interactions, where the latter help clear the territory from competing armed bands and destabilize the surrounding environment in a way that potentially allows to access cheaper labor. To conclude, we show an increase in mining production after the start of these relationships.
     <p>
           
     Presented at: UCL, PIEP Conference (HKS)
@@ -45,30 +45,19 @@ Working in Progress
 ===========================
 
 * <img width="20" alt="Screenshot 2022-11-22 at 16 40 38" src="https://user-images.githubusercontent.com/103354008/203371510-ce0ff46a-5f7a-43eb-bd71-821c8f1c7930.png"> **Informality trap: Social capital and Informal labour supply in a population of migrants**
-
-  <details>
-   <summary>Abstract</summary>
-    <p>
-  
-    This paper investigates the relationship between social capital and informal labor supply in a population of migrants. One standard deviation increase in the measure of trust is associated with a 22% decrease in the probability of working informally. This relationship is justified by the idea of tax morale: the moral cost of supplying labor in the informal sector. Depending on whether the individual chooses to supply labor in the formal or the shadow sector at the time of arrival in the host country, decisions about the country-specific human capital accumulation of migrants differ. This process creates a market failure in the economy. Indeed, migrants with both low tax morale and productivity may experience informality traps, given that they have no incentives to accumulate human capital.
   
 
-* <img width="20" alt="Screenshot 2022-11-22 at 16 40 38" src="https://user-images.githubusercontent.com/103354008/203371510-ce0ff46a-5f7a-43eb-bd71-821c8f1c7930.png">  **Crime organizations as Proto-States: Evidence from Brazil**
+* <img width="20" alt="Screenshot 2022-11-22 at 16 40 38" src="https://user-images.githubusercontent.com/103354008/203371510-ce0ff46a-5f7a-43eb-bd71-821c8f1c7930.png">  **Criminal Organization**
 
-  <details>
-   <summary>Abstract</summary>
-    <p>
-  
-   This paper studies the relationship between organized crime, formal institutions, and economic growth. In particular, I focus on the spread of the most influential criminal organization in Brazil with two goals. First, determine if the organisation imposes a monopoly of violence, i.e., whether it imposes itself as a proto-state. Second, to explore the economic consequences of the organization's control of the territory. To do so, I combine a theoretical model of the internal structure of the criminal organisation with a reduced form analysis. To deal with the endogenous diffusion of the organization, I exploit a quasi-random variation in both the costs and benefits of controlling a municipality. I find that the crime organization behaves like a proto-state since controlled municipalities experience a transition towards a low-violence equilibrium. This regulatory behavior is efficient for the organization, being profit-maximizing. As for the economic outcomes, I find a small increase in the GDP of the controlled municipalities as well as some evidence of tax competition.
-    <p>
-      
-    Presented at: UCL, Bologna , Lyon, IFS, Collegio Carlo Alberto (Turin)
-
+* <img width="20" alt="Screenshot 2022-11-22 at 16 40 38" src="https://user-images.githubusercontent.com/103354008/203371510-ce0ff46a-5f7a-43eb-bd71-821c8f1c7930.png">  **Criminal Competition**
 
 - - - -
 
 Policy Reports
 ===========================
+      
+**Country Risk Premiums: what we know and why they are not working well (2023)**. Finance for Peace Initiative (Interpeace - UN). Joint with Jeremy Boccanfuso, Vincenzo Scrutinio, and Tommaso Sonno
+      
 
 **Peace Impact of Private Investments: Evidence from Multinationals investments in Africa (2022)**. Finance for Peace Initiative (Interpeace - UN). Joint with Tommaso Sonno.
 
