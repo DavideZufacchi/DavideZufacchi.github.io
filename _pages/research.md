@@ -11,7 +11,7 @@ Working papers
 ===========================
 
 
-* <img width="20" alt="Screenshot 2022-11-22 at 16 40 38" src="https://user-images.githubusercontent.com/103354008/203371510-ce0ff46a-5f7a-43eb-bd71-821c8f1c7930.png"> <a href="https://davidezufacchi.github.io/Ebola_SonnoZufacchi.pdf"> Epidemics and rapacity of multinational companies  </a>, with Tommaso Sonno
+* <img width="20" alt="Screenshot 2022-11-22 at 16 40 38" src="https://user-images.githubusercontent.com/103354008/203371510-ce0ff46a-5f7a-43eb-bd71-821c8f1c7930.png"> <a href="https://davidezufacchi.github.io/Ebola_SonnoZufacchi.pdf"> Crises and Land Grabbing  </a>, with Tommaso Sonno
 
   <details>
     <summary>Abstract</summary>
@@ -43,13 +43,12 @@ Working papers
 
 Working in Progress 
 ===========================
-
-* <img width="20" alt="Screenshot 2022-11-22 at 16 40 38" src="https://user-images.githubusercontent.com/103354008/203371510-ce0ff46a-5f7a-43eb-bd71-821c8f1c7930.png"> **Informality trap: Social capital and Informal labour supply in a population of migrants**
-  
-
+      
 * <img width="20" alt="Screenshot 2022-11-22 at 16 40 38" src="https://user-images.githubusercontent.com/103354008/203371510-ce0ff46a-5f7a-43eb-bd71-821c8f1c7930.png">  **Criminal Organization**
 
 * <img width="20" alt="Screenshot 2022-11-22 at 16 40 38" src="https://user-images.githubusercontent.com/103354008/203371510-ce0ff46a-5f7a-43eb-bd71-821c8f1c7930.png">  **Criminal Competition**
+      
+* <img width="20" alt="Screenshot 2022-11-22 at 16 40 38" src="https://user-images.githubusercontent.com/103354008/203371510-ce0ff46a-5f7a-43eb-bd71-821c8f1c7930.png"> **Informality trap **
 
 - - - -
 
