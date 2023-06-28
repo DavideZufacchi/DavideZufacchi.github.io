@@ -20,7 +20,9 @@ Teaching Assistant
   
   
   
-  - - - - 
+  - - - -
+
+  <span style="color: red">News:</span> I have been nominated by the student union for the Student Choice Award *** Inspiring Teaching *** for the year 2022
   
  <details>
  <summary>What students say about me </summary>
