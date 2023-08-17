@@ -18,25 +18,3 @@ Teaching Assistant
 
 * ECON0124 - Topics in Development Economics (MSc), University College London, TA for Gabriel Ulyssea, Spring 2022 (Evaluation: 3.35/4)
   
-  
-  
-  - - - -
-
-  <span style="color: red">News:</span> I have been nominated by the student union for the Student Choice Award ***Inspiring Teaching*** for the year 2022
-  
- <details>
- <summary>What students say about me </summary>
-    <p>
-      
-      
-* You're the best TA I've had at UCL. You are exceptionally good at explaining the intuition of Econometrics and all around a great, charismatic, funny guy which is very rare in economics.
-    <p>
-      
-      
-* Davide was a fantastic TA who put in lots of effort to each tutorial. We were very fortunate to have him as our TA given that most of us often left the lectures more confused than when we went in. Davide’s explanations made things much clearer.
-    <p>
-      
- * Davide is the best TA I have had during the MSc. So much effort put into each tutorial and he makes it fun. His explanations are also very useful.
-
-
-
