@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-.page__content {
+page__content {
 
   text-align: justify;
 
