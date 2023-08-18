@@ -30,8 +30,6 @@ Working papers
     
 Press: <a href="https://blogs.lse.ac.uk/africaatlse/2022/03/18/how-multinationals-exploited-a-health-ebola-crisis-accelerate-deforestation-liberia-capitalism/"> Africa at LSE </a>
 
-</br>
-</br>
 
 <img width="20" alt="Screenshot 2022-11-22 at 16 40 38" src="https://user-images.githubusercontent.com/103354008/203371510-ce0ff46a-5f7a-43eb-bd71-821c8f1c7930.png"> **Digging Deeper: Mining Companies and Armed Bands in the DRC**, with Eliana La Ferrara
   
@@ -55,11 +53,11 @@ Working in Progress
 Policy Reports
 ===========================
       
-<p style='text-align: justify;'> **Country Risk Premiums: what we know and why they are not working well (2023)**. Finance for Peace Initiative (Interpeace - UN). Joint with Jeremy Boccanfuso, Vincenzo Scrutinio, and Tommaso Sonno </p>
+ **Country Risk Premiums: what we know and why they are not working well (2023)**. <p style='text-align: justify;'> Finance for Peace Initiative (Interpeace - UN). Joint with Jeremy Boccanfuso, Vincenzo Scrutinio, and Tommaso Sonno </p>
       
-<p style='text-align: justify;'> **Peace Impact of Private Investments: Evidence from Multinationals investments in Africa (2022)**. Finance for Peace Initiative (Interpeace - UN). Joint with Tommaso Sonno. </p>
+ **Peace Impact of Private Investments: Evidence from Multinationals investments in Africa (2022)**.  <p style='text-align: justify;'> Finance for Peace Initiative (Interpeace - UN). Joint with Tommaso Sonno. </p>
 
-<p style='text-align: justify;'> **Voucher: uso e contestualizzazione alla luce del Covid-19 (2020)**. ADAPT Working Papers. Joint with Enrico Cavallotti, Maddalena Conte, Sergio Inferrera, Lorenzo Navarini, and Filippo Passerini (in Italian). </p>
+ **Voucher: uso e contestualizzazione alla luce del Covid-19 (2020)**. <p style='text-align: justify;'> ADAPT Working Papers. Joint with Enrico Cavallotti, Maddalena Conte, Sergio Inferrera, Lorenzo Navarini, and Filippo Passerini (in Italian). </p>
 
 - - - -
 
