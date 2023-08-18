@@ -53,11 +53,11 @@ Working in Progress
 Policy Reports
 ===========================
       
- **Country Risk Premiums: what we know and why they are not working well (2023)**. <p style='text-align: justify;'> Finance for Peace Initiative (Interpeace - UN). Joint with Jeremy Boccanfuso, Vincenzo Scrutinio, and Tommaso Sonno </p>
+ **Country Risk Premiums: what we know and why they are not working well (2023)**. Finance for Peace Initiative (Interpeace - UN). Joint with Jeremy Boccanfuso, Vincenzo Scrutinio, and Tommaso Sonno 
       
- **Peace Impact of Private Investments: Evidence from Multinationals investments in Africa (2022)**.  <p style='text-align: justify;'> Finance for Peace Initiative (Interpeace - UN). Joint with Tommaso Sonno. </p>
+ **Peace Impact of Private Investments: Evidence from Multinationals investments in Africa (2022)** Finance for Peace Initiative (Interpeace - UN). Joint with Tommaso Sonno. 
 
- **Voucher: uso e contestualizzazione alla luce del Covid-19 (2020)**. <p style='text-align: justify;'> ADAPT Working Papers. Joint with Enrico Cavallotti, Maddalena Conte, Sergio Inferrera, Lorenzo Navarini, and Filippo Passerini (in Italian). </p>
+ **Voucher: uso e contestualizzazione alla luce del Covid-19 (2020)**. ADAPT Working Papers. Joint with Enrico Cavallotti, Maddalena Conte, Sergio Inferrera, Lorenzo Navarini, and Filippo Passerini (in Italian).
 
 - - - -
 
