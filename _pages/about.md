@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-page__content {
-
-  text-align: justify;
+<p style='text-align: justify;'>
 
 I am a PhD student in Economics at <a href="https://www.ucl.ac.uk/economics/ucl-department-economics"> University College London </a>, <a href="https://ifs.org.uk"> Institude of Fiscal Studies </a> PhD scholar, previously at <a href="https://www.unibocconi.it/wps/wcm/connect/Bocconi/SitoPubblico_IT/Albero+di+navigazione/Home/"> Bocconi University </a>.
 
@@ -77,3 +75,4 @@ Teaching Assistant
 
 * ECON0124 - Topics in Development Economics (MSc), University College London, TA for Gabriel Ulyssea, Spring 2022 (Evaluation: 3.35/4)
   
+</p>
