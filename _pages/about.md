@@ -22,7 +22,7 @@ Working papers
 ===========================
 
 
-<img width="20" alt="Screenshot 2022-11-22 at 16 40 38" src="https://user-images.githubusercontent.com/103354008/203371510-ce0ff46a-5f7a-43eb-bd71-821c8f1c7930.png"> <a href="https://davidezufacchi.github.io/Ebola_SonnoZufacchi.pdf"> Crises and Land Grabbing</a>, with Tommaso Sonno
+<img width="150" alt="Screenshot 2022-11-22 at 16 40 38" src="https://user-images.githubusercontent.com/103354008/203371510-ce0ff46a-5f7a-43eb-bd71-821c8f1c7930.png"> <a href="https://davidezufacchi.github.io/Ebola_SonnoZufacchi.pdf"> Crises and Land Grabbing</a>, with Tommaso Sonno
 
 <p style='text-align: justify;'> <img align="left" width="300" height="300" src="/DavideZufacchi.github.io/graph_10km_website.jpeg" /> Do crises increase land-grabbing events? We investigate this question in the Liberian palm oil sector during the Ebola epidemic. This setting is particularly appropriate because it allows us to measure land grabbing through deforestation. Using a difference in discontinuity approach, we document a sharp increase in deforestation, which produced dramatic growth in newly planted palm oil trees and a 1428% increase in palm oil exports. We also show that the probability of forest fires -- the fastest way to clear forests and start new production -- increased by 125% in the same period. Overall, our results indicate that crises may escalate land grabbing thanks to a diversion of attention toward the emergency. </p>
 
