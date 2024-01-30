@@ -22,7 +22,7 @@ Working papers
 ===========================
 
 
-<img width="6000" alt="Screenshot 2022-11-22 at 16 40 38" src="https://user-images.githubusercontent.com/103354008/203371510-ce0ff46a-5f7a-43eb-bd71-821c8f1c7930.png"> <a href="https://davidezufacchi.github.io/Ebola_SonnoZufacchi.pdf"> Crises and Land Grabbing</a>, with Tommaso Sonno
+<img width="20" alt="Screenshot 2022-11-22 at 16 40 38" src="https://user-images.githubusercontent.com/103354008/203371510-ce0ff46a-5f7a-43eb-bd71-821c8f1c7930.png"> <a href="https://davidezufacchi.github.io/Ebola_SonnoZufacchi.pdf"> Crises and Land Grabbing</a>, with Tommaso Sonno
 
 <p style='text-align: justify;'> <img align="left" width="300" height="300" src="/DavideZufacchi.github.io/graph_10km_website.jpeg" /> Do crises increase land-grabbing events? We investigate this question in the Liberian palm oil sector during the Ebola epidemic. This setting is particularly appropriate because it allows us to measure land grabbing through deforestation. Using a difference in discontinuity approach, we document a sharp increase in deforestation, which produced dramatic growth in newly planted palm oil trees and a 1428% increase in palm oil exports. We also show that the probability of forest fires -- the fastest way to clear forests and start new production -- increased by 125% in the same period. Overall, our results indicate that crises may escalate land grabbing thanks to a diversion of attention toward the emergency. </p>
 
@@ -31,7 +31,7 @@ Working papers
 Press: <a href="https://blogs.lse.ac.uk/africaatlse/2022/03/18/how-multinationals-exploited-a-health-ebola-crisis-accelerate-deforestation-liberia-capitalism/"> Africa at LSE </a>
 
 
-<img width="10" alt="Screenshot 2022-11-22 at 16 40 38" src="https://user-images.githubusercontent.com/103354008/203371510-ce0ff46a-5f7a-43eb-bd71-821c8f1c7930.png"> **Digging Deeper: Mining Companies and Armed Bands in the DRC**, with Eliana La Ferrara
+<img width="5" alt="Screenshot 2022-11-22 at 16 40 38" src="https://user-images.githubusercontent.com/103354008/203371510-ce0ff46a-5f7a-43eb-bd71-821c8f1c7930.png"> **Digging Deeper: Mining Companies and Armed Bands in the DRC**, with Eliana La Ferrara
   
 <p style='text-align: justify;'> <img align="left" width="400" height="400" src="/DavideZufacchi.github.io/Links.png" />   We investigate the relationship between armed groups and large-scale mining firms in the Democratic Republic of Congo using geo-referenced data over 2000-2015. We start by showing that the pattern of links between armed bands and concession owners significantly departs from the random benchmark. To understand these patterns, we develop a statistical detection algorithm which flags owner-band dyads based on repeated interaction and anomalous bands' movements. Results indicate that flagged dyads are significantly more likely to be observed together, also in very far away mineral concessions. We next explore the nature of these contacts. Our results are consistent with the interpretation that mining companies and armed bands engage in repeated interactions, where the latter help clear the territory from competing armed bands and destabilize the surrounding environment in a way that potentially allows to access cheaper labor. To conclude, we show an increase in mining production after the start of these relationships. </p>
           
