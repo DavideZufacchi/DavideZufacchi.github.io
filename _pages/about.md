@@ -14,7 +14,7 @@ redirect_from:
 
 <p style='text-align: justify;'> I use tools from empirical industrial organization and forensic economics to study criminal organizations and hidden behaviours.</p>
 
-<p style='text-align: justify;'> You can find my CV <a href="https://davidezufacchi.github.io/cv_052023.pdf"> here. </a> </p>
+<p style='text-align: justify;'> You can find my CV <a href="https://davidezufacchi.github.io/cv_012024.pdf"> here. </a> </p>
 
 - - - -
 
