@@ -81,21 +81,19 @@ Teaching Assistant
 Outside university
 =======
   
-<p float="left">
-  <img align="left" width="250" height="250" src="/DavideZufacchi.github.io/1. monte faito.png" /> &nbsp;
+<div>
+  <img align="left" width="250" height="250" src="/DavideZufacchi.github.io/1. monte faito.png" > 
   
-  <img align="left" width="250" height="250" src="/DavideZufacchi.github.io/2. monte dei lupi.png" /> &nbsp;
+  <img align="left" width="250" height="250" src="/DavideZufacchi.github.io/2. monte dei lupi.png" > 
   
-  <img align="left" width="250" height="250" src="/DavideZufacchi.github.io/3. sentiero degli dei.png" />
-</p>
-
-<p float="left">
-  <img align="left" width="250" height="250" src="/DavideZufacchi.github.io/4. lazzaro da cese.png" /> &nbsp;
-  <img align="left" width="250" height="250" src="/DavideZufacchi.github.io/5. valle delle ferriere.png" /> &nbsp;
-  <img align="left" width="250" height="250" src="/DavideZufacchi.github.io/6. monte faito.png" />
-</p>
-
-<p float="left">
-  <img align="left" width="250" height="250" src="/DavideZufacchi.github.io/7. monte luppia.png" />
-  <img align="left" width="250" height="250" src="/DavideZufacchi.github.io/8. lattani.png" />
-</p>
+  <img align="left" width="250" height="250" src="/DavideZufacchi.github.io/3. sentiero degli dei.png" >
+</div>
+<div>
+  <img align="left" width="250" height="250" src="/DavideZufacchi.github.io/4. lazzaro da cese.png" > &nbsp;
+  <img align="left" width="250" height="250" src="/DavideZufacchi.github.io/5. valle delle ferriere.png" > &nbsp;
+  <img align="left" width="250" height="250" src="/DavideZufacchi.github.io/6. monte faito.png" >
+</div>
+<div>
+  <img align="left" width="250" height="250" src="/DavideZufacchi.github.io/7. monte luppia.png" >
+  <img align="left" width="250" height="250" src="/DavideZufacchi.github.io/8. lattani.png" >
+</div>
