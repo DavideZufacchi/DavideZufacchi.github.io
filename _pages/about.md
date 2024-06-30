@@ -80,6 +80,36 @@ Teaching Assistant
 
 Outside university
 =======
+
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+    .gallery {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 10px;
+    }
+    .image {
+        width: 100%;
+        height: auto;
+    }
+</style>
+</head>
+<body>
+<div class="gallery">
+    <img width="250" height="250" src="/DavideZufacchi.github.io/1. monte faito.png" class="image" > 
+    <img width="250" height="250" src="/DavideZufacchi.github.io/2. monte dei lupi.png" class="image" > 
+    <img width="250" height="250" src="/DavideZufacchi.github.io/3. sentiero degli dei.png" class="image" >
+    <img align="left" width="250" height="250" src="/DavideZufacchi.github.io/4. lazzaro da cese.png" class="image">
+    <img align="center" width="250" height="250" src="/DavideZufacchi.github.io/5. valle delle ferriere.png" class="image">
+    <img align="right" width="250" height="250" src="/DavideZufacchi.github.io/6. monte faito.png" class="image">
+    <img align="left" width="250" height="250" src="/DavideZufacchi.github.io/7. monte luppia.png" class="image">
+    <img align="center" width="250" height="250" src="/DavideZufacchi.github.io/8. lattani.png" class="image">
+</div>
+</body>
+</html>
   
 <div>
   <img align="left" width="250" height="250" src="/DavideZufacchi.github.io/1. monte faito.png" > 
@@ -89,8 +119,8 @@ Outside university
 
 
 <div>
-  <img align="left" width="250" height="250" src="/DavideZufacchi.github.io/4. lazzaro da cese.png" > &nbsp;
-  <img align="center" width="250" height="250" src="/DavideZufacchi.github.io/5. valle delle ferriere.png" > &nbsp;
+  <img align="left" width="250" height="250" src="/DavideZufacchi.github.io/4. lazzaro da cese.png" >
+  <img align="center" width="250" height="250" src="/DavideZufacchi.github.io/5. valle delle ferriere.png" >
   <img align="right" width="250" height="250" src="/DavideZufacchi.github.io/6. monte faito.png" >
 </div>
 
