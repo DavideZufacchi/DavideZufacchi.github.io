@@ -75,5 +75,25 @@ Teaching Assistant
 * <p style='text-align: justify;'> ECON0060 - Advanced Microeconometrics (MSc), University College London, TA for Lars Nesheim, Spring 2022,2023,2024 (Evaluation 3.72/4) </p>
 
 * <p style='text-align: justify;'> ECON0124 - Topics in Development Economics (MSc), University College London, TA for Gabriel Ulyssea, Spring 2022 (Evaluation: 3.35/4) </p>
-  
 
+- - - -
+
+Outside university
+=======
+  
+<p float="left">
+  <img align="left" width="300" height="300" src="/DavideZufacchi.github.io/1. monte faito.png" />
+  <img align="left" width="300" height="300" src="/DavideZufacchi.github.io/2. monte dei lupi.png" />
+  <img align="left" width="300" height="300" src="/DavideZufacchi.github.io/3. sentiero degli dei.png" />
+</p>
+
+<p float="left">
+  <img align="left" width="300" height="300" src="/DavideZufacchi.github.io/4. lazzaro da cese.png" />
+  <img align="left" width="300" height="300" src="/DavideZufacchi.github.io/5. valle delle ferriere.png" />
+  <img align="left" width="300" height="300" src="/DavideZufacchi.github.io/6. monte faito.png" />
+</p>
+
+<p float="left">
+  <img align="left" width="300" height="300" src="/DavideZufacchi.github.io/7. monte luppia.png" />
+  <img align="left" width="300" height="300" src="/DavideZufacchi.github.io/8. lattani.png" />
+</p>
