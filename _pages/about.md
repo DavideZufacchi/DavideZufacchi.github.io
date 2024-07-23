@@ -78,7 +78,7 @@ Teaching Assistant
 
 - - - -
 
-Outside university
+Outside the office
 =======
 
 <html lang="en">
