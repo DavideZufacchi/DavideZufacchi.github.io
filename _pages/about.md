@@ -12,7 +12,7 @@ redirect_from:
 
 <p style='text-align: justify;'> PhD student in Economics at <a href="https://www.ucl.ac.uk/economics/ucl-department-economics"> University College London</a>, <a href="https://ifs.org.uk"> Institude of Fiscal Studies</a> PhD scholar, previously at <a href="https://www.unibocconi.it/wps/wcm/connect/Bocconi/SitoPubblico_IT/Albero+di+navigazione/Home/"> Bocconi University</a>. </p>
 
-<p style='text-align: justify;'> 	I am an applied microeconomists working in the intersection between development economics and industrial organization. In my research, I use economic models and econometric tools to study illegal markets.</p>
+<p style='text-align: justify;'> 	I am an applied microeconomists working in the intersection between development economics and industrial organization. In my research, I use economic models and econometric tools to study unobserved markets.</p>
 
 <p style='text-align: justify;'> You can find my CV <a href="https://davidezufacchi.github.io/cv_012024.pdf"> here. </a> </p>
 
