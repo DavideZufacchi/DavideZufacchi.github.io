@@ -106,11 +106,11 @@ Outside the office
 <body>
 <div class="gallery">
     <img width="250" height="250" src="/DavideZufacchi.github.io/1. monte faito.png" class="image" > 
-    <img width="250" height="250" src="/DavideZufacchi.github.io/2. monte dei lupi.png" class="image" > 
+    <img width="250" height="250" src="/DavideZufacchi.github.io/2. monte faito.png" class="image" > 
     <img width="250" height="250" src="/DavideZufacchi.github.io/3. sentiero degli dei.png" class="image" >
     <img align="left" width="250" height="250" src="/DavideZufacchi.github.io/4. lazzaro da cese.png" class="image">
     <img align="center" width="250" height="250" src="/DavideZufacchi.github.io/5. valle delle ferriere.png" class="image">
-    <img align="right" width="250" height="250" src="/DavideZufacchi.github.io/6. monte faito.png" class="image">
+    <img align="right" width="250" height="250" src="/DavideZufacchi.github.io/6. monte dei lupi.png" class="image">
     <img align="left" width="250" height="250" src="/DavideZufacchi.github.io/7. monte luppia.png" class="image">
     <img align="center" width="250" height="250" src="/DavideZufacchi.github.io/8. lattani.png" class="image">
   <img align="right" width="250" height="250" src="/DavideZufacchi.github.io/9. loughton.png" class="image">
