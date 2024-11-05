@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Davide Zufacchi"
-  avatar           : "camiciareduced.jpg"
+  avatar           : "https://github.com/DavideZufacchi/DavideZufacchi.github.io/blob/2cb3a44aec53f00187fb6418511f89f1bd2f1dbe/camiciareduced.jpg"
   bio              : "Economics PhD student at University College London and Institute of Fiscal Studies"
   location         : "30 Gordon Street, London"
   employer         :
