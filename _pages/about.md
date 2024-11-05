@@ -113,7 +113,7 @@ Outside the office
     <img align="right" width="250" height="250" src="/DavideZufacchi.github.io/6. monte faito.png" class="image">
     <img align="left" width="250" height="250" src="/DavideZufacchi.github.io/7. monte luppia.png" class="image">
     <img align="center" width="250" height="250" src="/DavideZufacchi.github.io/8. lattani.png" class="image">
-  <img align="right" width="250" height="250" src="/DavideZufacchi.github.io/9 loughton.png" class="image">
+  <img align="right" width="250" height="250" src="/DavideZufacchi.github.io/9. loughton.png" class="image">
 </div>
 </body>
 </html>
