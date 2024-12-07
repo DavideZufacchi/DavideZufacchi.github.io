@@ -84,6 +84,13 @@ I was nominated for the <a href="https://studentsunionucl.org/student-choice-awa
 
 - - - -
 
+Public goods
+=======
+
+<p style='text-align: justify;'> Economics of Crime - syllabys <a href="https://davidezufacchi.github.io/Syllabus economics of crime public.pdf"> here. </a> </p>
+
+- - - -
+
 Outside the office
 =======
 
