@@ -80,7 +80,7 @@ I was nominated for the <a href="https://studentsunionucl.org/student-choice-awa
 
 * <p style='text-align: justify;'> ECON0054 - Development Economics (BSc), University College London, TA for Beatriz Armendariz, Fall 2021,2022 (Evaluation: 3.04/4) </p>
 
-* <p style='text-align: justify;'> ECON0060 - Advanced Microeconometrics (MSc), University College London, TA for Lars Nesheim, Spring 2022,2023,2024,2025 (Evaluation 3.72/4) </p>
+* <p style='text-align: justify;'> ECON0060 - Advanced Microeconometrics (MSc), University College London, TA for Lars Nesheim and Liyang Sun, Spring 2022,2023,2024,2025 (Evaluation 3.72/4) </p>
 
 * <p style='text-align: justify;'> ECON0124 - Topics in Development Economics (MSc), University College London, TA for Gabriel Ulyssea, Spring 2022 (Evaluation: 3.35/4) </p>
 
