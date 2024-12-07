@@ -72,13 +72,15 @@ Teaching Assistant
 
 I was nominated for the <a href="https://studentsunionucl.org/student-choice-awards-2023-roll-of-honour"> Student Choice Awards </a> (UCL student union) in 2023 
 
+* <p style='text-align: justify;'> ECON0023 - International Trade (BSc), University College London, TA for Lucas Conwell, Spring 2024 </p>
+
 * <p style='text-align: justify;'> ECON0030 - Issues in Economic Development (BSc), University College London, TA for Valerie Lechene and Marcos Vera-Hernández, Spring 2024 </p>
 
 * <p style='text-align: justify;'> ECON0038 - Economics of Money and Banking (BSc), University College London, TA for Silvia Dal Bianco, Spring 2023 </p>
 
 * <p style='text-align: justify;'> ECON0054 - Development Economics (BSc), University College London, TA for Beatriz Armendariz, Fall 2021,2022 (Evaluation: 3.04/4) </p>
 
-* <p style='text-align: justify;'> ECON0060 - Advanced Microeconometrics (MSc), University College London, TA for Lars Nesheim, Spring 2022,2023,2024 (Evaluation 3.72/4) </p>
+* <p style='text-align: justify;'> ECON0060 - Advanced Microeconometrics (MSc), University College London, TA for Lars Nesheim, Spring 2022,2023,2024,2025 (Evaluation 3.72/4) </p>
 
 * <p style='text-align: justify;'> ECON0124 - Topics in Development Economics (MSc), University College London, TA for Gabriel Ulyssea, Spring 2022 (Evaluation: 3.35/4) </p>
 
