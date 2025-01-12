@@ -57,6 +57,8 @@ Working in Progress
 Policy Reports
 ===========================
 
+ **About Risk Premiums: from country, to region, towards firm (2025)**. Finance for Peace Initiative (Interpeace - UN). Joint with Jeremy Boccanfuso, Irene Rizzoli, Vincenzo Scrutinio, and Tommaso Sonno 
+
  **Regional Risk Premiums: a new approach to risk premiums (2024)**. Finance for Peace Initiative (Interpeace - UN). Joint with Jeremy Boccanfuso, Vincenzo Scrutinio, and Tommaso Sonno 
       
  **Country Risk Premiums: what we know and why they are not working well (2023)**. Finance for Peace Initiative (Interpeace - UN). Joint with Jeremy Boccanfuso, Vincenzo Scrutinio, and Tommaso Sonno 
