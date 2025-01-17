@@ -30,7 +30,7 @@ Working papers
   **Presented at**: Bologna University, Ghent University (ETSG), Bocconi University (LEAP seminar), Online Political Economy Seminar Series, Universitat Autonoma de Barcelona (Jamboree seminar), University College London, Queen Mary University of London 
 
   **Press**: <a href="https://blogs.lse.ac.uk/africaatlse/2022/03/18/how-multinationals-exploited-a-health-ebola-crisis-accelerate-deforestation-liberia-capitalism/"> Africa at LSE </a>
-
+    </details>
 
  <img width="20" alt="Screenshot 2022-11-22 at 16 40 38" src="https://user-images.githubusercontent.com/103354008/203371510-ce0ff46a-5f7a-43eb-bd71-821c8f1c7930.png"> <b>Digging Deeper: Mining Companies and Armed Bands in the DRC</b>, with Eliana La Ferrara
 <details>
