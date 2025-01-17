@@ -25,13 +25,12 @@ Working papers
  <img width="20" alt="Screenshot 2022-11-22 at 16 40 38" src="https://user-images.githubusercontent.com/103354008/203371510-ce0ff46a-5f7a-43eb-bd71-821c8f1c7930.png"> <b>Large Scale Land Aquisitions</b>, with Tommaso Sonno
 <details>
       <summary> Details </summary>
-  
 <p style='text-align: justify;'>  **Abstract**: This paper studies large scale land acquisitions and its local effects. We exploit an exogenous increase in large scale land acquisitions due to the Ebola epidemic in Liberia. The health crisis has relaxed the acquisition constraint of palm oil companies diverting the attention towards the emergency. We find a large increase in palm oil production associated with a 1428% increase in palm oil exports. This is driven by an expansion in the hectares dedicated to this production, rather than an increase in the productivity of land. At the same time, we don’t observe any decrease in the land dedicated to other crops. This increase in production is associated with an increased pollution, as expected, but has modest/no effects on the local economy.
   
   <p style='text-align: justify;'> **Presented at**:  Bologna University, Ghent University (ETSG), Bocconi University (LEAP seminar), Online Political Economy Seminar Series, Universitat Autonoma de Barcelona (Jamboree seminar), University College London, Queen Mary University of London 
 
   **Press**: <a href="https://blogs.lse.ac.uk/africaatlse/2022/03/18/how-multinationals-exploited-a-health-ebola-crisis-accelerate-deforestation-liberia-capitalism/"> Africa at LSE </a>
-    </details>
+  </details>
 
  <img width="20" alt="Screenshot 2022-11-22 at 16 40 38" src="https://user-images.githubusercontent.com/103354008/203371510-ce0ff46a-5f7a-43eb-bd71-821c8f1c7930.png"> <b>Digging Deeper: Mining Companies and Armed Bands in the DRC</b>, with Eliana La Ferrara
 <details>
@@ -40,7 +39,7 @@ Working papers
   <p style='text-align: justify;'>  **Abstract**: We investigate the relationship between armed groups and large-scale mining firms in the Democratic Republic of Congo using geo-referenced data from 2000 to 2015. The pattern of interactions between armed bands and concession owners significantly deviates from a random benchmark. To understand the reasons behind this non-randomness, we develop a statistical test that assesses the plausibility of different explanations based on the observed data. Our results indicate that an active relationship is the only scenario consistent with the pattern of repeated interactions. We further explore the nature of these relationships and find evidence supporting the existence of two types of equilibria, depending on the type of mineral extracted in the concession. The first is a cooperative equilibrium, where armed groups provide services to mining firms, including clearing the territory of competing groups. The second is an adversarial equilibrium, where companies and militias compete for natural resources, leading to increased violence around the concessions.
 
   <p style='text-align: justify;'> **Presented at**:  Harvard PolEcon Seminar, Harvard Kennedy School Seminar, Havard Kennedy School (PIEP Conference), Washington University (PECO), University College London, Bocconi-LSE joint Crime seminar, ENS Lyon, Toloue School of Economics, CEPR Paris Symposium 2023, CEPR-RPN on Geoeconomics and RPN on Preventing Conflict: Policies for Peace 
-    </details>
+</details>
 
 - - - -
 
