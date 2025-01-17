@@ -45,10 +45,10 @@ Working in Progress
 ===========================
       
       
-* <img width="20" alt="Screenshot 2022-11-22 at 16 40 38" src="https://user-images.githubusercontent.com/103354008/203371510-ce0ff46a-5f7a-43eb-bd71-821c8f1c7930.png"> <b>Criminal Competition</b>, with Isaia Sales, Salvatore Leotta, Luciano Lombardi
-* <img width="20" alt="Screenshot 2022-11-22 at 16 40 38" src="https://user-images.githubusercontent.com/103354008/203371510-ce0ff46a-5f7a-43eb-bd71-821c8f1c7930.png"> <b>Criminal Production</b>
-* <img width="20" alt="Screenshot 2022-11-22 at 16 40 38" src="https://user-images.githubusercontent.com/103354008/203371510-ce0ff46a-5f7a-43eb-bd71-821c8f1c7930.png"> <b>Cultivating Resilience</b>, with Tommaso Sonno
-* <img width="20" alt="Screenshot 2022-11-22 at 16 40 38" src="https://user-images.githubusercontent.com/103354008/203371510-ce0ff46a-5f7a-43eb-bd71-821c8f1c7930.png"> <b>The market cost of environmental misconducts</b>, with Marco Castelluccio
+* <b>Criminal Competition</b>, with Isaia Sales, Salvatore Leotta, Luciano Lombardi
+* <b>Criminal Production</b>
+* <b>Cultivating Resilience</b>, with Tommaso Sonno
+* <b>The market cost of environmental misconducts</b>, with Marco Castelluccio
 
 - - - -
 
