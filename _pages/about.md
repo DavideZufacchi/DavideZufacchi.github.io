@@ -67,6 +67,7 @@ Policy Reports
 
  <p style='text-align: justify;'><b>Voucher: uso e contestualizzazione alla luce del Covid-19 (2020)</b>. ADAPT Working Papers. Joint with Enrico Cavallotti, Maddalena Conte, Sergio Inferrera, Lorenzo Navarini, and Filippo Passerini (in Italian).
 
+
 - - - -
 
 Teaching Assistant
