@@ -31,9 +31,7 @@ Working papers
     </details>
     <details>
       <summary> Presented at </summary>
-      <ul>
-       <li> Bologna University, Ghent University (ETSG), Bocconi University (LEAP seminar), Online Political Economy Seminar Series, Universitat Autonoma de Barcelona (Jamboree seminar), University College London, Queen Mary University of London </li>
-      </ul>
+       Bologna University, Ghent University (ETSG), Bocconi University (LEAP seminar), Online Political Economy Seminar Series, Universitat Autonoma de Barcelona (Jamboree seminar), University College London, Queen Mary University of London 
     </details>
     <details>
       <summary> Press </summary>
