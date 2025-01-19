@@ -21,7 +21,7 @@ redirect_from:
 Working papers 
 ===========================
 
-* <b>Large Scale Land Acquisitions</b>, with Tommaso Sonno
+1. <b>Large Scale Land Acquisitions</b>, with Tommaso Sonno
   <details>
     <summary>Details</summary>
     
@@ -32,7 +32,7 @@ Working papers
     <p style='text-align: justify;'><b>Press</b>: <a href="https://blogs.lse.ac.uk/africaatlse/2022/03/18/how-multinationals-exploited-a-health-ebola-crisis-accelerate-deforestation-liberia-capitalism/">Africa at LSE</a></p>
   </details>
 
-* <b>Digging Deeper: Mining Companies and Armed Bands in the DRC</b>, with Eliana La Ferrara
+2. <b>Digging Deeper: Mining Companies and Armed Bands in the DRC</b>, with Eliana La Ferrara
   <details>
     <summary>Details</summary>
     
