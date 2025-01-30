@@ -57,13 +57,13 @@ Working in Progress
 Policy Reports
 ===========================
 
- * <p style='text-align: justify;'><b>About Risk Premiums: from country, to region, towards firm (2025)</b>. Finance for Peace Initiative (Interpeace - UN). Joint with Jeremy Boccanfuso, Irene Rizzoli, Vincenzo Scrutinio, and Tommaso Sonno 
+ * <p style='text-align: justify;'><b>About Risk Premiums: from country, to region, towards firm (2025)</b>. Joint with Tommaso Sonno, Irene Rizzoli, Jeremy Boccanfuso, and Vincenzo Scrutinio 
 
- * <p style='text-align: justify;'><b>Regional Risk Premiums: a new approach to risk premiums (2024)</b>. Finance for Peace Initiative (Interpeace - UN). Joint with Jeremy Boccanfuso, Vincenzo Scrutinio, and Tommaso Sonno 
+ * <p style='text-align: justify;'><b>Regional Risk Premiums: a new approach to risk premiums (2024)</b>. Joint with Tommaso Sonno, Jeremy Boccanfuso, and Vincenzo Scrutinio 
       
-* <p style='text-align: justify;'><b>Country Risk Premiums: what we know and why they are not working well (2023)</b>. Finance for Peace Initiative (Interpeace - UN). Joint with Jeremy Boccanfuso, Vincenzo Scrutinio, and Tommaso Sonno 
+* <p style='text-align: justify;'><b>Country Risk Premiums: what we know and why they are not working well (2023)</b>. Joint with Tommaso Sonno, Jeremy Boccanfuso, and Vincenzo Scrutinio 
       
- * <p style='text-align: justify;'><b>Peace Impact of Private Investments: Evidence from Multinationals investments in Africa (2022)</b> Finance for Peace Initiative (Interpeace - UN). Joint with Tommaso Sonno. 
+ * <p style='text-align: justify;'><b>Peace Impact of Private Investments: Evidence from Multinationals investments in Africa (2022)</b> Joint with Tommaso Sonno. 
 
  * <p style='text-align: justify;'><b>Voucher: uso e contestualizzazione alla luce del Covid-19 (2020)</b>. ADAPT Working Papers. Joint with Enrico Cavallotti, Maddalena Conte, Sergio Inferrera, Lorenzo Navarini, and Filippo Passerini (in Italian).
 
