@@ -47,7 +47,7 @@ Working in Progress
 ===========================
       
       
-* <b>Criminal Competition</b>, with Isaia Sales, Salvatore Leotta, Luciano Lombardi
+* <b>Criminal Competition</b>, with Isaia Sales, Salvatore Leotta, Luciano Lombardi, Guido Persico
 * <b>Criminal Production</b>
 * <b>Cultivating Resilience</b>, with Tommaso Sonno
 * <b>The market cost of environmental misconducts</b>, with Marco Castelluccio
