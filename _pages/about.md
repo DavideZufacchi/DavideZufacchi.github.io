@@ -75,7 +75,7 @@ Teaching Assistant
 
 I was nominated for the <a href="https://studentsunionucl.org/student-choice-awards-2023-roll-of-honour"> Student Choice Awards </a> (UCL student union) in 2023 
 
-* <p style='text-align: justify;'> ECON0023 - International Trade (BSc), University College London, TA for Lucas Conwell, Spring 2024 </p>
+* <p style='text-align: justify;'> ECON0023 - International Trade (BSc), University College London, TA for Lucas Conwell, Spring 2024 (Evaluation: 4.75/5) </p>
 
 * <p style='text-align: justify;'> ECON0030 - Issues in Economic Development (BSc), University College London, TA for Valerie Lechene and Marcos Vera-Hernández, Spring 2024 </p>
 
