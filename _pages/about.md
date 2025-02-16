@@ -75,15 +75,15 @@ Teaching Assistant
 
 I was nominated for the <a href="https://studentsunionucl.org/student-choice-awards-2023-roll-of-honour"> Student Choice Awards </a> (UCL student union) in 2023 
 
-* <p style='text-align: justify;'> ECON0023 - International Trade (BSc), University College London, TA for Lucas Conwell, Fall 2024 (Evaluation: 4.75/5) </p>
+* <p style='text-align: justify;'> ECON0023 - International Trade (BSc), University College London, TA for Lucas Conwell, Fall 2024 (Evaluation: 4.70/5 - <a href="https://davidezufacchi.github.io/ECON0023 - 2025.pdf"> 2025) </p>
 
 * <p style='text-align: justify;'> ECON0030 - Issues in Economic Development (BSc), University College London, TA for Valerie Lechene and Marcos Vera-Hernández, Spring 2024 (Evaluation missing due to UCL change of policy)</p>
 
-* <p style='text-align: justify;'> ECON0054 - Development Economics (BSc), University College London, TA for Beatriz Armendariz, Fall 2021,2022 (Evaluation: 4.04/5) </p>
+* <p style='text-align: justify;'> ECON0054 - Development Economics (BSc), University College London, TA for Beatriz Armendariz, Fall 2021,2022 (Evaluation: 4.11/5 - <a href="https://davidezufacchi.github.io/ECON0054 - 2022.pdf"> 2022) </p>
 
-* <p style='text-align: justify;'> ECON0060 - Advanced Microeconometrics (MSc), University College London, TA for Lars Nesheim and Liyang Sun, Spring 2022,2023,2024,2025 (Evaluation 4.72/5) </p>
+* <p style='text-align: justify;'> ECON0060 - Advanced Microeconometrics (MSc), University College London, TA for Lars Nesheim and Liyang Sun, Spring 2022,2023,2024,2025 (Evaluation 4.73/5 - <a href="https://davidezufacchi.github.io/ECON0060 - 2022.pdf"> 2022) </p>
 
-* <p style='text-align: justify;'> ECON0124 - Topics in Development Economics (MSc), University College London, TA for Gabriel Ulyssea, Spring 2022 (Evaluation: 4.35/5) </p>
+* <p style='text-align: justify;'> ECON0124 - Topics in Development Economics (MSc), University College London, TA for Gabriel Ulyssea, Spring 2022 (Evaluation: 4.33/5 - <a href="https://davidezufacchi.github.io/ECON0124 - 2022.pdf"> 2022) </p>
 
 - - - -
 
