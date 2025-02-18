@@ -21,15 +21,14 @@ redirect_from:
 Working papers 
 ===========================
 
-* <b>Large Scale Land Acquisitions</b>, with Tommaso Sonno
+* <b> <a href="https://cep.lse.ac.uk/pubs/download/dp2075.pdf/">Large Scale Land Acquisitions</a></b>, with Tommaso Sonno
   <details>
     <summary>Details</summary>
     
     <p style='text-align: justify;'><b>Abstract</b>: This paper studies large scale land acquisitions and its local effects. We exploit an exogenous increase in large scale land acquisitions due to the Ebola epidemic in Liberia. The health crisis has relaxed the acquisition constraint of palm oil companies diverting the attention towards the emergency. We find a large increase in palm oil production associated with a 1428% increase in palm oil exports. This is driven by an expansion in the hectares dedicated to this production, rather than an increase in the productivity of land. At the same time, we don’t observe any decrease in the land dedicated to other crops. This increase in production is associated with an increased pollution, as expected, but has modest/no effects on the local economy.</p>
     
     <p style='text-align: justify;'><b>Presented at</b>: Bologna University, Ghent University (ETSG), Bocconi University (LEAP seminar), Online Political Economy Seminar Series, Universitat Autonoma de Barcelona (Jamboree seminar), University College London, Queen Mary University of London</p>
-    
-    <p style='text-align: justify;'><b>Press</b>: <a href="https://blogs.lse.ac.uk/africaatlse/2022/03/18/how-multinationals-exploited-a-health-ebola-crisis-accelerate-deforestation-liberia-capitalism/">Africa at LSE</a></p>
+  
   </details>
 
 * <b>Digging Deeper: Mining Companies and Armed Bands in the DRC</b>, with Eliana La Ferrara
