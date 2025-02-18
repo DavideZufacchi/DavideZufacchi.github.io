@@ -21,7 +21,7 @@ redirect_from:
 Working papers 
 ===========================
 
-* <b> <a href="https://cep.lse.ac.uk/pubs/download/dp2075.pdf/">Large Scale Land Acquisitions</a></b>, with Tommaso Sonno
+* <b> <a href="https://t.co/NWtlHDxoiI/">Large Scale Land Acquisitions: Trees, trade and structural change</a></b>, with Tommaso Sonno
   <details>
     <summary>Details</summary>
     
