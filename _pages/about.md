@@ -25,7 +25,7 @@ Job Market Paper
     
 <p style='text-align: justify;'><b>Presented at</b>: University College London, Institute of Fiscal Studies, Northwestern University (IO lunch)</p>
 
-<p style='text-align: justify;'><b>Funding</b>: Laboratory for Effective Anti-poverty Policies (Bocconi University) - Student Grant</p>
+<p style='text-align: justify;'><b>Funding</b>: Laboratory for Effective Anti-poverty Policies (LEAP), Bocconi University - Student Grant</p>
 
 - - - -
 
