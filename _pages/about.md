@@ -27,6 +27,8 @@ Job Market Paper
     
 <p style='text-align: justify;'><b>Presented at</b>: University College London, Institute of Fiscal Studies, Northwestern University (IO lunch)</p>
 
+- - - -
+
 Working papers 
 ===========================
 
@@ -48,7 +50,6 @@ Working papers
     
     <p style='text-align: justify;'><b>Presented at</b>: Harvard PolEcon Seminar, Harvard Kennedy School Seminar, Harvard Kennedy School (PIEP Conference), Washington University (PECO), University College London, Bocconi-LSE joint Crime seminar, ENS Lyon, Toulouse School of Economics, CEPR Paris Symposium 2023, CEPR-RPN on Geoeconomics and RPN on Preventing Conflict: Policies for Peace</p>
   </details>
-
 
 - - - -
 
