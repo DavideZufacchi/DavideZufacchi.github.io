@@ -10,18 +10,18 @@ redirect_from:
 
 
 
-<p style='text-align: justify;'> PhD student in Economics at <a href="https://www.ucl.ac.uk/economics/ucl-department-economics"> University College London</a>, <a href="https://ifs.org.uk"> Institude of Fiscal Studies</a> PhD scholar, previously at <a href="https://www.unibocconi.it/wps/wcm/connect/Bocconi/SitoPubblico_IT/Albero+di+navigazione/Home/"> Bocconi University</a>. </p>
+<p style='text-align: justify;'> I am a PhD candidate in Economics at <a href="https://www.ucl.ac.uk/economics/ucl-department-economics"> University College London</a>, and a PhD scholar at the <a href="https://ifs.org.uk"> Institute of Fiscal Studies</a>. I visited <a href="https://www.kellogg.northwestern.edu"> Kellogg - Northwestern University</a> in spring 2025.</p>
 
-<p style='text-align: justify;'> 	I am an applied microeconomists working in the intersection between development economics and industrial organization. </p>
+<p style='text-align: justify;'> My research interests lie at the intersection of development and industrial organization. </p>
 
-<p style='text-align: justify;'> You can find my CV <a href="https://davidezufacchi.github.io/cv_122024.pdf"> here. </a> </p>
+<p style='text-align: justify;'> CV: <a href="https://davidezufacchi.github.io/cv_122024.pdf"> here. </a> </p>
 
 - - - -
 
 Job Market Paper 
 ===========================
 
-<b>Criminal Competition: Market Concentration and Self-Regulation in Illegal Sectors</b>, with Isaia Sales, Salvatore Leotta, Luciano Lombardi, Guido Persico</b>
+<b>Criminal Competition: Market Concentration and Self-Regulation in Illegal Sectors</b>, with Isaia Sales, Salvatore Leotta, Luciano Lombardi, Guido Persico
 
 <p style='text-align: justify;'><b>Abstract</b>: This paper examines the relationship between market concentration and violence in the retail drug sector. Using geolocalized intelligence data, we document that larger gangs are less violent. To explain this regularity, we develop a quantitative model of an oligopoly market in which gangs strategically decide whether to engage in conflict, balancing the expected additional profits from a higher market share in the area with a lower demand. We estimate the model using newly collected data on drug seizures, inter-gang conflicts, and gang homicides. We find that larger gangs have higher incentives for self-regulation, suggesting unintended consequences for policies aimed at fragmenting criminal organizations. Simulations show a non-linear relationship between market concentration and violence.</p>
     
