@@ -10,11 +10,9 @@ redirect_from:
 
 
 
-<p style='text-align: justify;'> I am a PhD candidate in Economics at <a href="https://www.ucl.ac.uk/economics/ucl-department-economics"> University College London</a>, and a PhD scholar at the <a href="https://ifs.org.uk"> Institute of Fiscal Studies</a>. I visited <a href="https://www.kellogg.northwestern.edu"> Kellogg - Northwestern University</a> in spring 2025.</p>
+<p style='text-align: justify;'> I am a PhD candidate in Economics at <a href="https://www.ucl.ac.uk/economics/ucl-department-economics"> University College London</a>, and a PhD scholar at the <a href="https://ifs.org.uk"> Institute of Fiscal Studies</a>. My fields of research are development economics, industrial organization, and the economics of crime. </p>
 
-<p style='text-align: justify;'> My research interests lie at the intersection of development and industrial organization. </p>
-
-<p style='text-align: justify;'> CV: <a href="https://davidezufacchi.github.io/cv_122024.pdf"> here. </a> </p>
+<p style='text-align: justify;'> You can download my CV <a href="https://davidezufacchi.github.io/cv_122024.pdf"> here. </a> </p>
 
 - - - -
 
