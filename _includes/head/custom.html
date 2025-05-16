@@ -36,3 +36,53 @@
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
 <!-- end custom head snippets -->
+
+<!-- Safari compatibility fix -->
+<script>
+(function() {
+  // Check if browser is Safari
+  var isSafari = /^((?!chrome|android).)*safari/i.test(navigator.userAgent);
+  
+  if (isSafari) {
+    // Add a class to html element for Safari-specific styling
+    document.documentElement.className += ' is-safari';
+    
+    // Fix any layout issues when the page loads
+    document.addEventListener('DOMContentLoaded', function() {
+      // Reset problematic containers
+      var containers = document.querySelectorAll('.masthead, .page__content, .sidebar, .archive');
+      for (var i = 0; i < containers.length; i++) {
+        containers[i].style.transform = 'none';
+        containers[i].style.webkitTransform = 'none';
+        containers[i].style.position = 'relative';
+      }
+      
+      // Fix images
+      var images = document.querySelectorAll('img');
+      for (var i = 0; i < images.length; i++) {
+        images[i].style.height = 'auto';
+      }
+    });
+  }
+})();
+</script>
+
+<!-- Safari-specific CSS -->
+<style>
+  .is-safari .masthead,
+  .is-safari .page__content,
+  .is-safari .sidebar,
+  .is-safari .archive {
+    transform: none !important;
+    -webkit-transform: none !important;
+  }
+  
+  .is-safari .grid__wrapper,
+  .is-safari .feature__wrapper {
+    display: block !important;
+  }
+  
+  .is-safari img {
+    height: auto !important;
+  }
+</style>
