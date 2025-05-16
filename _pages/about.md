@@ -19,7 +19,7 @@ redirect_from:
 Job Market Paper 
 ===========================
 
-<b>Criminal Competition: Market Concentration and Self-Regulation in Illegal Sectors</b>, with Isaia Sales, Salvatore Leotta, Luciano Lombardi, Guido Persico
+<b>Competition and Self-Regulation in Illegal Sectors</b>, with Isaia Sales, Salvatore Leotta, Luciano Lombardi, Guido Persico
 
 <p style='text-align: justify;'><b>Abstract</b>: This paper examines the relationship between market concentration and violence in the retail drug sector. Using geolocalized intelligence data, we document that larger gangs are less violent. To explain this regularity, we develop a quantitative model of an oligopoly market in which gangs strategically decide whether to engage in conflict, balancing the expected additional profits from a higher market share in the area with a lower demand. We estimate the model using newly collected data on drug seizures, inter-gang conflicts, and gang homicides. We find that larger gangs have higher incentives for self-regulation, suggesting unintended consequences for policies aimed at fragmenting criminal organizations. Simulations show a non-linear relationship between market concentration and violence.</p>
     
