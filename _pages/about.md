@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Job Market Candidate 2025/26"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
