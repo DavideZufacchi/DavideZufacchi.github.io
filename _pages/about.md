@@ -102,7 +102,9 @@ I was nominated for the <a href="https://studentsunionucl.org/student-choice-awa
 Public goods
 =======
 
-<p style='text-align: justify;'> Economics of Crime - syllabus <a href="https://davidezufacchi.github.io/Syllabus economics of crime public.pdf"> here. </a> </p>
+<p style='text-align: justify;'> Economics of Crime - syllabus <a href="https://davidezufacchi.github.io/Syllabus economics of crime"> here. </a> </p>
+
+<p style='text-align: justify;'> Development Economics - syllabus <a href="https://davidezufacchi.github.io/Syllabus development economics"> here. </a> </p>
 
 - - - -
 
