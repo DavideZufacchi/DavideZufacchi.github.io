@@ -19,9 +19,9 @@ redirect_from:
 Job Market Paper 
 ===========================
 
-<b>Competition and Self-Regulation in Illegal Sectors</b>, with Isaia Sales, Salvatore Leotta, Luciano Lombardi, Guido Persico
+<b>Violent Competition in Illegal Sectors</b>, with Isaia Sales, Salvatore Leotta, Luciano Lombardi, Guido Persico
 
-<p style='text-align: justify;'><b>Abstract</b>: This paper examines how market concentration influences violence in illegal sectors. Using new intelligence data on the retail drug market in Naples, we show that both the number and composition of gangs matter. Areas with more gangs experience higher levels of violence, while larger gangs are less violent. We develop a quantitative model of an oligopolistic market in which gangs strategically decide whether to engage in conflict, balancing expected additional profits from gaining market share against the costs of increased violence and police presence. We estimate the model using original data on drug seizures, inter-gang conflict, and police presence. We find that larger gangs self-regulate to avoid a strong police reaction, suggesting unintended consequences for policies aimed at fragmenting criminal organizations. Simulations reveal a non-linear relationship between market concentration and violence.</p>
+<p style='text-align: justify;'><b>Abstract</b>: This paper examines how market concentration influences violence in illegal sectors. Leveraging unique intelligence data from Naples' retail drug market, we show that larger gangs are less violent. We then develop a quantitative model of an oligopolistic market in which gangs strategically decide whether to engage in conflict, balancing expected additional profits from gaining market share against the costs of increased violence and police presence. We estimate the model using original data on drug seizures, inter-gang conflict, and police presence. We find that larger gangs self-regulate to avoid a strong police reaction, suggesting unintended consequences for policies aimed at fragmenting criminal organizations. Simulations reveal a non-linear relationship between market concentration and violence.</p>
     
 <p style='text-align: justify;'><b>Presented at</b>: University College London, Institute of Fiscal Studies, Northwestern University (IO lunch)</p>
 
