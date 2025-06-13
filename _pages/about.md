@@ -23,7 +23,7 @@ Job Market Paper
 
 <p style='text-align: justify;'><b>Abstract</b>: This paper examines how market concentration influences violence in illegal sectors. Leveraging unique intelligence data from Naples' retail drug market, we show that larger gangs are less violent. We then develop a quantitative model of an oligopolistic market in which gangs strategically decide whether to engage in conflict, balancing expected additional profits from gaining market share against the costs of increased violence and police presence. We estimate the model using original data on drug seizures, inter-gang conflict, and police presence. We find that larger gangs self-regulate to avoid a strong police reaction, suggesting unintended consequences for policies aimed at fragmenting criminal organizations. Simulations reveal a non-linear relationship between market concentration and violence.</p>
     
-<p style='text-align: justify;'><b>Presented at</b>: University College London, Institute of Fiscal Studies, Northwestern University (IO lunch)</p>
+<p style='text-align: justify;'><b>Presented at</b>: University College London; Institute of Fiscal Studies; Northwestern University (IO lunch); University of Chicago - Harris (crime group)</p>
 
 <p style='text-align: justify;'><b>Grants</b>: Laboratory for Effective Anti-poverty Policies (LEAP), Bocconi University</p>
 
