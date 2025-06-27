@@ -19,7 +19,7 @@ redirect_from:
 Job Market Paper 
 ===========================
 
-<b>Violent Competition in Illegal Sectors</b>, with Isaia Sales, Salvatore Leotta, Luciano Lombardi, Guido Persico
+<b>Violent Competition in Illegal Sectors</b>, with Isaia Sales and Salvatore Leotta
 
 <p style='text-align: justify;'><b>Abstract</b>: This paper examines how market concentration influences violence in illegal sectors. Leveraging new intelligence data from Naples' retail drug market, we show that more fragmented areas are more violent. We then develop a quantitative model of an oligopolistic market in which gangs strategically decide whether to engage in conflict, balancing expected additional profits from gaining market share against the costs of increased violence and police presence. We estimate the model using original data on drug seizures, inter-gang conflict, and police attention. We find an inverse-U shape relationship between market concentration and violence, suggesting that policies aimed at fragmenting criminal organizations may inadvertently escalate violence in moderately concentrated markets. These findings highlight the need for tailored law enforcement strategies based on local market dynamics.</p>
     
