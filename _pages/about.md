@@ -103,8 +103,8 @@ Public goods
 =======
 
 <p style='text-align: justify;'> Economics of Crime - syllabus <a href="https://davidezufacchi.github.io/Syllabus economics of crime.pdf"> here. </a> </p>
-
 <p style='text-align: justify;'> Development Economics - syllabus <a href="https://davidezufacchi.github.io/Syllabus development economics.pdf"> here. </a> </p>
+<p style='text-align: justify;'> Empirical Industrial Organization - syllabus <a href="https://davidezufacchi.github.io/Syllabus empirical IO.pdf"> here. </a> </p>
 
 - - - -
 
