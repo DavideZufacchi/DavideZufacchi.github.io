@@ -59,9 +59,10 @@ Working in Progress
 ===========================
       
 
-* <b>Criminal Production</b>
-* <b>Cultivating Resilience</b>, with Tommaso Sonno
-* <b>The market cost of environmental misconducts</b>, with Marco Castelluccio
+* <b>Justice at a Price</b>, with Magdalena Dominiguez
+* <b>The Environmental Elasticity</b>, with Mohamed Badaoui and Marco Castelluccio
+* <b>A Dying Reputation</b>, with Matteo Vasca
+* <b>Cultivating Resilience</b>, with Roberta Muri and Tommaso Sonno 
 
 - - - -
 
