@@ -38,7 +38,7 @@ Working papers
     
     <p style='text-align: justify;'><b>Abstract</b>: Large-scale land acquisitions are a key component of agricultural foreign direct investment. By 2022, more than 4% of the world’s arable land was acquired globally through Large Scale Land Acquisitions. This paper examines their impact on agricultural production, environmental outcomes, and local communities. To identify these effects, we exploit an exogenous increase in palm oil land acquisitions driven by the Ebola epidemic in Liberia. We find a 54% growth in production, primarily due to an expansion in cultivated hectares rather than large improvements in land productivity, accompanied by a significant rise in palm oil exports. The expansion of this tradable industry generated modest positive effects on the local economy and spurred a process of structural transformation. Women transitioned from agriculture to service and sales jobs, while men shifted into manual labour positions. However, all of this came at a cost: increased deforestation, air pollution, and a decline in local land ownership.</p>
     
-    <p style='text-align: justify;'><b>Presented at</b>: Bologna University; Ghent UniversityM, Bocconi University; Online Political Economy Seminar Series; Universitat Autonoma de Barcelona; University College London; Queen Mary University of London</p>
+    <p style='text-align: justify;'><b>Presented at</b>: Bologna University; Ghent University; Bocconi University; Online Political Economy Seminar Series; Universitat Autonoma de Barcelona; University College London; Queen Mary University of London</p>
 
     <p style='text-align: justify;'><b>Grants</b>: Modigliani Research Grant, Unicredit Foundation</p>
   
