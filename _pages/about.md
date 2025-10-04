@@ -23,7 +23,7 @@ Job Market Paper
 
 <p style='text-align: justify;'><b>Abstract</b>: This paper studies violent competition in illegal markets. Leveraging new intelligence data on Naples’ retail drug market, we show that more fragmented areas face a higher probability of fights between gangs. We develop a quantitative model of an oligopolistic market where gangs choose whether to fight, balancing expected profits from greater market share against the costs of violence and heightened police attention. We estimate the model combining original data on drug seizures, inter-gang conflict, and police activity. The model reveals an inverse U-shaped relationship between market concentration and violence. We then evaluate three enforcement strategies: (1) gang crackdowns, (2) stronger police response to violence, and (3) drug legalization. The main insight is that the same enforcement strategy may succeed, fail, or unintentionally escalate violence depending on the underlying market structure.</p>
     
-<p style='text-align: justify;'><b>Presented at</b>: University College London; Institute of Fiscal Studies; Northwestern University (IO lunch); University of Chicago - Harris (crime group)</p>
+<p style='text-align: justify;'><b>Presented at</b>: University College London; Institute of Fiscal Studies; Northwestern University; University of Chicago - Harris; Oxford University - OXDEV; NBER Economics of Firearm Markets, Crime, and Gun Violence; ASSA 2026</p>
 
 <p style='text-align: justify;'><b>Grants</b>: Laboratory for Effective Anti-poverty Policies (LEAP), Bocconi University</p>
 
@@ -38,7 +38,7 @@ Working papers
     
     <p style='text-align: justify;'><b>Abstract</b>: Large-scale land acquisitions are a key component of agricultural foreign direct investment. By 2022, more than 4% of the world’s arable land was acquired globally through Large Scale Land Acquisitions. This paper examines their impact on agricultural production, environmental outcomes, and local communities. To identify these effects, we exploit an exogenous increase in palm oil land acquisitions driven by the Ebola epidemic in Liberia. We find a 54% growth in production, primarily due to an expansion in cultivated hectares rather than large improvements in land productivity, accompanied by a significant rise in palm oil exports. The expansion of this tradable industry generated modest positive effects on the local economy and spurred a process of structural transformation. Women transitioned from agriculture to service and sales jobs, while men shifted into manual labour positions. However, all of this came at a cost: increased deforestation, air pollution, and a decline in local land ownership.</p>
     
-    <p style='text-align: justify;'><b>Presented at</b>: Bologna University, Ghent University (ETSG), Bocconi University (LEAP seminar), Online Political Economy Seminar Series, Universitat Autonoma de Barcelona (Jamboree seminar), University College London, Queen Mary University of London</p>
+    <p style='text-align: justify;'><b>Presented at</b>: Bologna University; Ghent UniversityM, Bocconi University; Online Political Economy Seminar Series; Universitat Autonoma de Barcelona; University College London; Queen Mary University of London</p>
 
     <p style='text-align: justify;'><b>Grants</b>: Modigliani Research Grant, Unicredit Foundation</p>
   
@@ -50,7 +50,7 @@ Working papers
     
     <p style='text-align: justify;'><b>Abstract</b>: We investigate the relationship between armed groups and large-scale mining firms in the Democratic Republic of Congo using geo-referenced data from 2000 to 2015. The pattern of interactions between armed bands and concession owners significantly deviates from a random benchmark. To understand the reasons behind this non-randomness, we develop a statistical test that assesses the plausibility of different explanations based on the observed data. Our results indicate that an active relationship is the only scenario consistent with the pattern of repeated interactions. We further explore the nature of these relationships and find evidence supporting the existence of two types of equilibria, depending on the type of mineral extracted in the concession. The first is a cooperative equilibrium, where armed groups provide services to mining firms, including clearing the territory of competing groups. The second is an adversarial equilibrium, where companies and militias compete for natural resources, leading to increased violence around the concessions.</p>
     
-    <p style='text-align: justify;'><b>Presented at</b>: Harvard PolEcon Seminar, Harvard Kennedy School Seminar, Harvard Kennedy School (PIEP Conference), Washington University (PECO), University College London, Bocconi-LSE joint Crime seminar, ENS Lyon, Toulouse School of Economics, CEPR Paris Symposium 2023, CEPR-RPN on Geoeconomics and RPN on Preventing Conflict: Policies for Peace</p>
+    <p style='text-align: justify;'><b>Presented at</b>: Harvard University; Harvard Kennedy School; PIEP Conference; Washington University; University College London; Bocconi-LSE joint Crime seminar; ENS Lyon; Toulouse School of Economics; CEPR Paris Symposium 2023; CEPR-RPN on Geoeconomics and RPN on Preventing Conflict: Policies for Peace; World Congress of the Econometric Society</p>
   </details>
 
 - - - -
