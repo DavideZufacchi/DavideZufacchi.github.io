@@ -60,9 +60,8 @@ Working in Progress
       
 
 * <b>Justice at a Price</b>, with Magdalena Dominiguez
-* <b>The Environmental Elasticity</b>, with Mohamed Badaoui and Marco Castelluccio
-* <b>A Dying Reputation</b>, with Matteo Vasca
-* <b>Cultivating Resilience</b>, with Roberta Muri and Tommaso Sonno 
+* <b>Cultivating Resilience</b>, with Roberta Muri and Tommaso Sonno
+* <b>Uncertainty shocks, production, and competition: evidence from the cotton sector in Burkina Faso</b>, with Tommaso Sonno 
 
 - - - -
 
