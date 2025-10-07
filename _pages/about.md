@@ -32,7 +32,7 @@ Job Market Paper
 Working papers 
 ===========================
 
-* <b> <a href="https://davidezufacchi.github.io/sonno_zufacchi_ebola_2025.pdf">Large Scale Land Acquisitions: Trees, trade and structural change</a></b>, with Tommaso Sonno
+* <b> <a href="https://davidezufacchi.github.io/sonno_zufacchi_ebola_2025.pdf">Large Scale Land Acquisitions: Trees, trade and structural change</a></b>, with Tommaso Sonno - <i> Under Review <i>
   <details>
     <summary>Details</summary>
     
