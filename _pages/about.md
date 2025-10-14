@@ -23,7 +23,7 @@ Job Market Paper
 
 <p style='text-align: justify;'><b>Abstract</b>: This paper studies violent competition in illegal markets. Leveraging new intelligence data on Naples’ retail drug market, we show that more fragmented areas face a higher probability of fights between gangs. We develop a quantitative model of an oligopolistic market where gangs choose whether to fight, balancing expected profits from greater market share against the costs of violence and heightened police attention. We estimate the model combining original data on drug seizures, inter-gang conflict, and police activity. The model reveals an inverse U-shaped relationship between market concentration and violence. We then evaluate three enforcement strategies: (1) gang crackdowns, (2) stronger police response to violence, and (3) drug legalization. The main insight is that the same enforcement strategy may succeed, fail, or unintentionally escalate violence depending on the underlying market structure.</p>
     
-<p style='text-align: justify;'><b>Presented at</b>: University College London; Institute of Fiscal Studies; Northwestern University; University of Chicago - Harris; Oxford University - OXDEV; NBER Economics of Firearm Markets, Crime, and Gun Violence; London School of Economics; ASSA</p>
+<p style='text-align: justify;'><b>Presented at</b>: University College London; Institute of Fiscal Studies; Northwestern University; University of Chicago - Harris; Oxford University - OXDEV 2025; NBER Economics of Firearm Markets, Crime, and Gun Violence 2025; London School of Economics; ASSA 2026</p>
 
 <p style='text-align: justify;'><b>Grants</b>: Laboratory for Effective Anti-poverty Policies (LEAP), Bocconi University</p>
 
