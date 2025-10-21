@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-<p style='text-align: justify;'> I am a PhD candidate in Economics at <a href="https://www.ucl.ac.uk/economics/ucl-department-economics"> University College London</a>, and a PhD scholar at the <a href="https://ifs.org.uk"> Institute of Fiscal Studies</a>. I am an applied microeconomist with research interests in development economics and empirical industrial organization. </p>
+<p style='text-align: justify;'> I am a PhD candidate in Economics at <a href="https://www.ucl.ac.uk/economics/ucl-department-economics"> University College London</a>, and a PhD scholar at the <a href="https://ifs.org.uk"> Institute of Fiscal Studies</a>. I am an applied microeconomist working at the intersection of empirical industrial organization and development economics. </p>
 
 <p style='text-align: justify;'> You can download my CV <a href="https://davidezufacchi.github.io/cv.pdf"> here. </a> </p>
 
@@ -57,12 +57,11 @@ Working papers
 
 Working in Progress 
 ===========================
-      
 
+* <b>Optimal product customization</b>, with Elena Spadini
+* <b>Uncertainty shocks, production, and competition</b>, with Tommaso Sonno 
 * <b>Justice at a Price</b>, with Magdalena Dominiguez
-* <b>Cultivating Resilience</b>, with Roberta Muri and Tommaso Sonno
-* <b>Uncertainty shocks, production, and competition: evidence from the cotton sector in Burkina Faso</b>, with Tommaso Sonno 
-
+  
 - - - -
 
 Policy Reports
