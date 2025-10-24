@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-<p style='text-align: justify;'> I am a PhD candidate in Economics at <a href="https://www.ucl.ac.uk/economics/ucl-department-economics"> University College London</a>, and a PhD scholar at the <a href="https://ifs.org.uk"> Institute of Fiscal Studies</a>. I am an applied microeconomist working at the intersection of empirical industrial organization and development economics. </p>
+<p style='text-align: justify;'> I am a PhD candidate in Economics at <a href="https://www.ucl.ac.uk/economics/ucl-department-economics"> University College London</a>, and a PhD scholar at the <a href="https://ifs.org.uk"> Institute of Fiscal Studies</a>. I am an applied microeconomist studying questions in Empirical Industrial Organization and Development. </p>
 
 <p style='text-align: justify;'> You can download my CV <a href="https://davidezufacchi.github.io/cv.pdf"> here. </a> </p>
 
