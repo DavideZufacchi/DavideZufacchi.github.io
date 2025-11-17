@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-<p style='text-align: justify;'> I am a PhD candidate in Economics at <a href="https://www.ucl.ac.uk/economics/ucl-department-economics"> University College London</a>, and a PhD scholar at the <a href="https://ifs.org.uk"> Institute of Fiscal Studies</a>. I am an applied microeconomist studying questions in Empirical Industrial Organization and Development. </p>
+<p style='text-align: justify;'> I am a PhD candidate in Economics at <a href="https://www.ucl.ac.uk/economics/ucl-department-economics"> University College London</a>, and a PhD scholar at the <a href="https://ifs.org.uk"> Institute of Fiscal Studies</a>. I am an applied microeconomist studying questions in Empirical Industrial Organization and Development Economics. </p>
 
 <p style='text-align: justify;'> I am on the 2025-2026 academic job market. </p>
 
