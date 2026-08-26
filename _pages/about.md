@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Job Market Candidate 2025/26"
+title: "Davide Zufacchi"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,8 +11,6 @@ redirect_from:
 
 
 <p style='text-align: justify;'> I am a PhD candidate in Economics at <a href="https://www.ucl.ac.uk/economics/ucl-department-economics"> University College London</a>, and a PhD scholar at the <a href="https://ifs.org.uk"> Institute of Fiscal Studies</a>. I am an applied microeconomist studying questions in Empirical Industrial Organization and Development Economics. </p>
-
-<p style='text-align: justify;'> I am on the 2025-2026 academic job market. </p>
 
 <p style='text-align: justify;'>  You can find my CV <a href="https://davidezufacchi.github.io/cv.pdf"> here</a>. I can be reached at <a href="mailto:davide.zufacchi.20@ucl.ac.uk"> davide.zufacchi.20@ucl.ac.uk </a> </p>
 
@@ -34,7 +32,7 @@ Job Market Paper
 Working papers 
 ===========================
 
-* <b> From Forests to Plantations: Agricultural FDI in the Liberian's Palm Oil Sector</a></b>, with Tommaso Sonno 
+* <b> From Forests to Plantations: Agricultural FDI in the Liberian's Palm Oil Sector</b>, with Tommaso Sonno 
   <details>
     <summary>Details</summary>
     
