@@ -12,7 +12,7 @@ redirect_from:
 
 I received my PhD from <a href="https://www.ucl.ac.uk/economics/ucl-department-economics"> University College London</a> in 2026. 
 
-<p style='text-align: justify;'>  You can find my CV <a href="https://davidezufacchi.github.io/cv.pdf"> here</a>. I can be reached at <a href="mailto:davide.zufacchi.20@ucl.ac.uk"> davide.zufacchi.20@ucl.ac.uk </a> </p>
+<p style='text-align: justify;'>  You can find my CV <a href="https://davidezufacchi.github.io/cv.pdf"> here</a>. I can be reached at <a href="mailto:davide.zufacchi@unibo.it"> davide.zufacchi@unibo.it </a> </p>
 
 - - - -
 
