@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<p style='text-align: justify;'> I am a fixed term Assistant Professor at the <a href="https://dse.unibo.it/en"> University of Bologna</a> and Research Fellow at the <a href="https://ifs.org.uk"> Institute of Fiscal Studies</a>. I use empirical industrial organization methods to study development and crime. </p>
+<p style='text-align: justify;'> I am a fixed term Assistant Professor at the <a href="https://dse.unibo.it/en"> University of Bologna</a> and Research Fellow at the <a href="https://ifs.org.uk"> Institute of Fiscal Studies</a>. </p>
+  
+<p style='text-align: justify;'> I work on questions in development and crime economics using tools from empirical IO. </p>
 
 I received my PhD from <a href="https://www.ucl.ac.uk/economics/ucl-department-economics"> University College London</a> in 2026. 
 
